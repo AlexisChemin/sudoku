@@ -12,7 +12,7 @@
     <properties>
         <!--<kotlin.version>1.0.3</kotlin.version>-->
         <assertk.version>0.13</assertk.version>
-        <kotlin.version>1.2.10</kotlin.version>
+        <kotlin.version>1.6.0</kotlin.version>
         <junit.version>4.12</junit.version>
         <!--<main.class>hello.HelloKt</main.class>-->
         <main.class>app</main.class>
